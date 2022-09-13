@@ -3,4 +3,4 @@
 
 - 🔭 Sou desenvolvedora front-end
 - 🌱 Estudando React e Typescript
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
