@@ -2,8 +2,7 @@
 
 
 - 🔭 Sou desenvolvedora front-end
-- 🌱 Estudando React e Typescript
-- 😄 Pronomes: ela/dela
+- 🌱 Começando a estudar NodeJS e Express. 
 
 <div align="center">
   <a href="https://github.com/tainatenorio">
