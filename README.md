@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou desenvolvedora front-end
-- 🌱 Começando a estudar NodeJS e Express. 
+- 🌱 Estudando NodeJS, TypeScript e TypeORM. 
 
 <div align="center">
   <a href="https://github.com/tainatenorio">
