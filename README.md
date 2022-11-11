@@ -3,7 +3,7 @@
 
 - 🔭 Front end developer
 - 🌱 Computer science student. 
-- 👾 Currently I'm learning Python and some other backend technologies
+- 👾 Currently learning Python and some other backend technologies
 - 📫 Contact me: ⬇️
 <div>
   <a href="https://instagram.com/tainatenoriom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
