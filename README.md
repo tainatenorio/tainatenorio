@@ -1,9 +1,8 @@
 ### Heyy, Tainá here. Welcome to my GitHub! 👋
 
 
-- 🔭 Web developer JR
 - 🌱 Computer science student 
-- 👾 Currently learning some back end technologies like Python :)
+- 👾 Currently studying some more of React w/ TS :)
 - 📫 Contact me: ⬇️
 <div>
   <a href="https://instagram.com/tainatenoriom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
